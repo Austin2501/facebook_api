@@ -716,3 +716,119 @@
 2024-07-12 13:05:59,068 [DEBUG] watchfiles.main: 2 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal')}
 2024-07-12 13:06:43,265 [INFO] logger: Fetching status for user associated with friend id: 1
 2024-07-12 13:07:25,853 [INFO] logger: Fetching status for user with id: 1
+2024-07-12 13:23:00,604 [INFO] logger: Fetching all users
+2024-07-12 13:23:14,720 [INFO] logger: Fetching all users
+2024-07-12 13:29:00,047 [INFO] logger: Creating user with name: string
+2024-07-12 13:29:00,185 [DEBUG] watchfiles.main: 2 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal')}
+2024-07-12 13:30:19,261 [INFO] logger: Creating user with name: string
+2024-07-12 13:30:31,878 [INFO] logger: Creating user with name: vineettttt
+2024-07-12 13:30:31,999 [DEBUG] watchfiles.main: 2 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/todo.db-journal')}
+2024-07-12 13:34:19,112 [INFO] logger: Fetching all users
+2024-07-12 13:34:44,320 [INFO] logger: Fetching friends for user with id: 1
+2024-07-12 13:41:48,254 [INFO] logger: Fetching friends for user with id: 1
+2024-07-12 13:47:09,812 [INFO] logger: Application shutdown
+2024-07-12 13:53:50,774 [INFO] logger: Application startup
+2024-07-12 13:53:55,531 [INFO] logger: Root endpoint called
+2024-07-12 13:55:34,670 [INFO] logger: Fetching all users
+2024-07-12 13:56:06,607 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:56:06,813 [INFO] logger: Application shutdown
+2024-07-12 13:56:07,236 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4378254848'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4378254848'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:56:07,277 [INFO] logger: Application startup
+2024-07-12 13:56:32,553 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:56:32,748 [INFO] logger: Application shutdown
+2024-07-12 13:56:33,119 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4405206528'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4405206528')}
+2024-07-12 13:56:33,155 [INFO] logger: Application startup
+2024-07-12 13:56:33,642 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:56:33,763 [INFO] logger: Application shutdown
+2024-07-12 13:56:34,083 [INFO] logger: Application startup
+2024-07-12 13:56:34,132 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4408335872'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4408335872'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:56:51,306 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:56:51,475 [INFO] logger: Application shutdown
+2024-07-12 13:56:51,850 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:56:52,651 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:56:52,996 [INFO] logger: Application startup
+2024-07-12 13:56:53,019 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4416472496'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4416472496')}
+2024-07-12 13:56:55,275 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:56:55,422 [INFO] logger: Application shutdown
+2024-07-12 13:56:55,764 [INFO] logger: Application startup
+2024-07-12 13:56:55,786 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4419667376'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4419667376'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc')}
+2024-07-12 13:57:05,542 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/user.py')}
+2024-07-12 13:57:05,671 [INFO] logger: Application shutdown
+2024-07-12 13:57:06,006 [INFO] logger: Application startup
+2024-07-12 13:57:06,037 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4405986992'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4405986992'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:57:17,018 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:57:17,126 [INFO] logger: Application shutdown
+2024-07-12 13:57:17,485 [INFO] logger: Application startup
+2024-07-12 13:57:17,496 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4377337344'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4377337344'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:57:19,691 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:57:19,810 [INFO] logger: Application shutdown
+2024-07-12 13:57:20,174 [DEBUG] watchfiles.main: 5 changes detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4408794624'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4408794624'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc')}
+2024-07-12 13:57:20,179 [INFO] logger: Application startup
+2024-07-12 13:57:20,491 [INFO] logger: Application startup
+2024-07-12 13:57:20,546 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:57:29,809 [INFO] logger: Fetching all users
+2024-07-12 13:58:00,023 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:58:00,160 [INFO] logger: Application shutdown
+2024-07-12 13:58:00,536 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:58:00,609 [INFO] logger: Application startup
+2024-07-12 13:58:00,901 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4391273904'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4391273904')}
+2024-07-12 13:58:01,849 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:58:02,026 [INFO] logger: Application shutdown
+2024-07-12 13:58:02,390 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:58:02,439 [INFO] logger: Application startup
+2024-07-12 13:58:02,751 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4348986800'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4348986800'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc')}
+2024-07-12 13:58:06,888 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/user.py')}
+2024-07-12 13:58:07,091 [INFO] logger: Application shutdown
+2024-07-12 13:58:07,422 [INFO] logger: Application startup
+2024-07-12 13:58:07,450 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4351608496'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4351608496'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:58:09,506 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:58:09,648 [INFO] logger: Application shutdown
+2024-07-12 13:58:09,977 [INFO] logger: Application startup
+2024-07-12 13:58:10,017 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4383415808'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4383415808'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:58:13,549 [INFO] logger: Fetching all users
+2024-07-12 13:58:59,261 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:58:59,412 [INFO] logger: Application shutdown
+2024-07-12 13:58:59,789 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:58:59,837 [INFO] logger: Application startup
+2024-07-12 13:59:00,155 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4750968240'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4750968240'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc')}
+2024-07-12 13:59:03,613 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 13:59:03,780 [INFO] logger: Application shutdown
+2024-07-12 13:59:04,130 [INFO] logger: Application startup
+2024-07-12 13:59:04,202 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4394862000'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4394862000'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc')}
+2024-07-12 13:59:13,440 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/user.py')}
+2024-07-12 13:59:13,634 [INFO] logger: Application shutdown
+2024-07-12 13:59:13,955 [INFO] logger: Application startup
+2024-07-12 13:59:14,005 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4379772592'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4379772592'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:59:20,142 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/user.py')}
+2024-07-12 13:59:20,329 [INFO] logger: Application shutdown
+2024-07-12 13:59:20,670 [INFO] logger: Application startup
+2024-07-12 13:59:20,702 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4361946800'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4361946800')}
+2024-07-12 13:59:25,284 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/user.py')}
+2024-07-12 13:59:25,422 [INFO] logger: Application shutdown
+2024-07-12 13:59:25,744 [INFO] logger: Application startup
+2024-07-12 13:59:25,790 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4418487984'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/schemas/__pycache__/user.cpython-312.pyc.4418487984'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:59:58,530 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 13:59:58,693 [INFO] logger: Application shutdown
+2024-07-12 13:59:59,056 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4415168000'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4415168000'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 13:59:59,113 [INFO] logger: Application startup
+2024-07-12 14:00:05,018 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 14:00:05,182 [INFO] logger: Application shutdown
+2024-07-12 14:00:05,551 [DEBUG] watchfiles.main: 5 changes detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py'), (<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4358462976'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4358462976'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc')}
+2024-07-12 14:00:05,868 [INFO] logger: Application startup
+2024-07-12 14:00:07,211 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 14:00:07,384 [INFO] logger: Application shutdown
+2024-07-12 14:00:07,703 [INFO] logger: Application startup
+2024-07-12 14:00:07,755 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4370783744'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4370783744'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 14:00:11,252 [INFO] logger: Fetching all users
+2024-07-12 14:00:16,047 [INFO] logger: Fetching all users
+2024-07-12 14:00:25,760 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/user.py')}
+2024-07-12 14:00:25,902 [INFO] logger: Application shutdown
+2024-07-12 14:00:26,272 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4403158528'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc.4403158528'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/controller/__pycache__/user.cpython-312.pyc'), (<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 14:00:26,316 [INFO] logger: Application startup
+2024-07-12 14:00:29,204 [INFO] logger: Fetching all users
+2024-07-12 14:00:40,066 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/models/user.py')}
+2024-07-12 14:00:40,269 [INFO] logger: Application shutdown
+2024-07-12 14:00:40,637 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, '/Users/vineetrawat/Desktop/facebook_api/server/logs.log')}
+2024-07-12 14:00:40,683 [INFO] logger: Application startup
+2024-07-12 14:00:41,000 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.deleted: 3>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4393534896'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc.4393534896'), (<Change.added: 1>, '/Users/vineetrawat/Desktop/facebook_api/server/models/__pycache__/user.cpython-312.pyc')}
+2024-07-12 14:00:45,012 [INFO] logger: Fetching all users

@@ -18,7 +18,7 @@ class Friend(Base):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String, index=True, nullable=False)
-    friend_number = Column(String, nullable=False)
+    friend_name = Column(String, nullable=False)
     user_id = Column(Integer, ForeignKey("facebook_users.id", ondelete="CASCADE"), nullable=False)
 
     user = relationship("FacebookUser", back_populates="friends")

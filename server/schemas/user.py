@@ -25,7 +25,7 @@ class Status(BaseModel):
 
 class Friend(BaseModel):
     name: str
-    friend_number: str 
+    friend_name: str 
     user_id: int
 
     class Config:
@@ -33,11 +33,11 @@ class Friend(BaseModel):
 
 class FacebookUserCreateRequest(BaseModel):
     name: str
-    friend_number: str
+    friend_name: str
 
 class FacebookUser(BaseModel):
     name: str
-    friend_number: str
+    friend_name: str
     friends: Optional[List[Friend]] = []
     chats: Optional[List[Chat]] = []
     statuses: Optional[List[Status]] = []
